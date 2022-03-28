@@ -2,7 +2,6 @@
 
 **For Backend** - `npm i`
 
-**For Frontend** - `cd frontend` ` yarn`
 
 ## Env Variables
 
